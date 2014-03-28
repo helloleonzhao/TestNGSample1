@@ -6,5 +6,6 @@ public class NewTest {
   @Test
   public void f() {
 	  System.out.println("TestNG3");
+	  System.out.println("GitHub");
   }
 }
